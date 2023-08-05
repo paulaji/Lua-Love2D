@@ -1,3 +1,7 @@
 to run: lua53 filename.lua53
 
 NOTE: lua indices start with 1 as opposed to 0 of many other languages
+
+installed LOVE 2D from there official website
+now when we take a terminal and type love, love2d window pops up
+we should have main.lua file such that love can understand what to execute
